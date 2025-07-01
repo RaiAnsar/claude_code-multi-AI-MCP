@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/raiansar-claude-code-multi-ai-mcp-badge.png)](https://mseep.ai/app/raiansar-claude-code-multi-ai-mcp)
+
 # Talk to Multiple AIs Through Claude Code
 
 🚀 **Make Claude Code even smarter by connecting it to Google Gemini, Grok-3, ChatGPT, and DeepSeek!**
